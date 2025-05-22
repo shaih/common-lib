@@ -4,6 +4,7 @@
 #ifndef __COMMON_Memory_Buffer_H_7e5fa8c2415240ea93eff148ed73539b
 #define __COMMON_Memory_Buffer_H_7e5fa8c2415240ea93eff148ed73539b
 
+#include <cstdint>
 #include <functional>
 #include <istream>
 #include <memory>
